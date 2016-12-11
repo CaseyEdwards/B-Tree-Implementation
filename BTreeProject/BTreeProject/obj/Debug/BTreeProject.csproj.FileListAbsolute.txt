@@ -1,0 +1,6 @@
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\BTreeProject\BTreeProject\bin\Debug\BTreeProject.exe.config
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\BTreeProject\BTreeProject\bin\Debug\BTreeProject.exe
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\BTreeProject\BTreeProject\bin\Debug\BTreeProject.pdb
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\BTreeProject\BTreeProject\obj\Debug\BTreeProject.csprojResolveAssemblyReference.cache
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\BTreeProject\BTreeProject\obj\Debug\BTreeProject.exe
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\BTreeProject\BTreeProject\obj\Debug\BTreeProject.pdb
